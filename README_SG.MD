@@ -1,6 +1,6 @@
-# COMP120 Assignment 3 – Developer Instructions
+# COMP120 Assignment 3 – Team Instructions
 
-## Getting Started With the Task List (For Developers)
+## Getting Started With the Task List 
 
 This document explains how project contributors should use the task list in GitHub to manage work.
 
