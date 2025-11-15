@@ -62,4 +62,3 @@ The page will update with new results each time you search.
 - View all matching recipe suggestions  
 - Search again anytime by entering new items  
 
-These instructions help any user understand exactly how to search for items and get results from the Rec
