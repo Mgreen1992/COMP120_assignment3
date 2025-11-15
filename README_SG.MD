@@ -1,6 +1,6 @@
-# COMP120 Assignment 3 – Developer Instructions
+# COMP120 Assignment 3 – Team Instructions
 
-## Getting Started With the Task List (For Developers)
+## Getting Started With the Task List 
 
 This document explains how project contributors should use the task list in GitHub to manage work.
 
@@ -34,5 +34,3 @@ This document explains how project contributors should use the task list in GitH
 1. After finishing the task, go back to the issue on GitHub.
 2. Write a comment stating what you completed.
 3. Click **Close issue** to mark it as done.
-
-These instructions guide developers through creating, updating, and completing tasks using GitHub Issues.
